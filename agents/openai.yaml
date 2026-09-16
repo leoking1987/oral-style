@@ -1,0 +1,4 @@
+interface:
+  display_name: "口语化skill"
+  short_description: "把 Marie 与 Kevin 稿件改为自然口播，优化观众追问、结构与叙事"
+  default_prompt: "用 $oral-style 改写这篇 Marie 或 Kevin 稿件的口播话术与叙事结构，保留身份、事实和专业判断。"
